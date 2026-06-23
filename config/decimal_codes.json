@@ -1,0 +1,49 @@
+{
+  "description": "Kamu Evrak Desimal Kodları ve Kategorileri",
+  "version": "1.0",
+  "note": "Bu dosya okul özelindeki desimal kodları içerecek şekilde güncellenecektir",
+  "categories": {
+    "900": {
+      "name": "Personel İşleri",
+      "subcategories": {
+        "903": {
+          "name": "Personel Yönetimi",
+          "department": "İnsan Kaynakları",
+          "examples": ["İdari izin talep", "Personel kayıt işlemleri"]
+        }
+      }
+    },
+    "100": {
+      "name": "Genel İşler",
+      "subcategories": {
+        "101": {
+          "name": "Kurum Yönetimi",
+          "department": "Müdürlük",
+          "examples": ["Kurum kararları", "Yönetim yazışmaları"]
+        }
+      }
+    },
+    "200": {
+      "name": "Mali İşler",
+      "subcategories": {
+        "201": {
+          "name": "Bütçe ve Muhasebe",
+          "department": "Muhasebe",
+          "examples": ["Fatura işlemleri", "Ödeme talepleri"]
+        }
+      }
+    },
+    "300": {
+      "name": "Eğitim İşleri",
+      "subcategories": {
+        "301": {
+          "name": "Ders ve Eğitim",
+          "department": "Eğitim Koordinatörlüğü",
+          "examples": ["Ders programı", "Eğitim takvimi"]
+        }
+      }
+    }
+  },
+  "example_format": "YYYY/XXX-YYY-ZZZ",
+  "pattern": "Desimal kod genellikle evrak başlığı altında 'YYYY/XXX-YYY-ZZZ' şeklinde bulunur"
+}

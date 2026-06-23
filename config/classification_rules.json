@@ -1,0 +1,111 @@
+{
+  "description": "Evrak Sınıflandırma Kuralları (Anahtar Kelime Tabanlı)",
+  "version": "1.0",
+  "personel_isleri": {
+    "code": "903",
+    "category": "Personel İşleri (903)",
+    "department": "İnsan Kaynakları",
+    "keywords": [
+      "izin",
+      "personel",
+      "çalışan",
+      "atama",
+      "transfer",
+      "özlük",
+      "nöbet",
+      "terfii",
+      "derece",
+      "emeklilik",
+      "istifa",
+      "işe alım",
+      "özür",
+      "disiplin"
+    ],
+    "confidence_boost": 0.15
+  },
+  "mali_isler": {
+    "code": "201",
+    "category": "Mali İşler (201)",
+    "department": "Muhasebe",
+    "keywords": [
+      "fatura",
+      "ödeme",
+      "bütçe",
+      "gider",
+      "taksit",
+      "para",
+      "maliye",
+      "vergi",
+      "muhasebe",
+      "gelir",
+      "tasdik",
+      "satın",
+      "mal",
+      "hizmet"
+    ],
+    "confidence_boost": 0.12
+  },
+  "egitim_isleri": {
+    "code": "301",
+    "category": "Eğitim İşleri (301)",
+    "department": "Eğitim Koordinatörlüğü",
+    "keywords": [
+      "ders",
+      "öğrenci",
+      "okul",
+      "eğitim",
+      "takvim",
+      "sınav",
+      "başarı",
+      "diploma",
+      "tercih",
+      "bölüm",
+      "program",
+      "seminer",
+      "kurs",
+      "akademik"
+    ],
+    "confidence_boost": 0.15
+  },
+  "genel_isler": {
+    "code": "100",
+    "category": "Genel İşler (100)",
+    "department": "Müdürlük",
+    "keywords": [
+      "kararı",
+      "yönetim",
+      "müdür",
+      "direktif",
+      "komite",
+      "toplantı",
+      "anlaşma",
+      "protokol",
+      "işbirliği",
+      "davet",
+      "resepsiyon",
+      "duyuru",
+      "genelge"
+    ],
+    "confidence_boost": 0.10
+  },
+  "altyapi_ve_tesisler": {
+    "code": "501",
+    "category": "Altyapı ve Tesisler (501)",
+    "department": "Bilişim Koordinatörlüğü",
+    "keywords": [
+      "bilgisayar",
+      "network",
+      "yazılım",
+      "donanım",
+      "sistem",
+      "teknik",
+      "arıza",
+      "bakım",
+      "onarım",
+      "lisans",
+      "sunucu",
+      "internet"
+    ],
+    "confidence_boost": 0.12
+  }
+}

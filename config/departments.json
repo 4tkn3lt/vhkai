@@ -1,0 +1,42 @@
+{
+  "description": "Kurum Departmanları ve İletişim Bilgileri",
+  "version": "1.0",
+  "note": "Bu dosya kurum spesifik bilgilerle güncellenecektir",
+  "departments": {
+    "İnsan Kaynakları": {
+      "email": "ik@example.edu.tr",
+      "phone": "0-000",
+      "responsible": "İK Müdürü",
+      "expected_processing_time": "5 iş günü",
+      "location": "Kat 2, Oda 201"
+    },
+    "Muhasebe": {
+      "email": "muhasebe@example.edu.tr",
+      "phone": "0-000",
+      "responsible": "Muhasebe Müdürü",
+      "expected_processing_time": "3 iş günü",
+      "location": "Kat 1, Oda 102"
+    },
+    "Eğitim Koordinatörlüğü": {
+      "email": "egitim@example.edu.tr",
+      "phone": "0-000",
+      "responsible": "Eğitim Koordinatörü",
+      "expected_processing_time": "2 iş günü",
+      "location": "Kat 3, Oda 301"
+    },
+    "Müdürlük": {
+      "email": "mudurluk@example.edu.tr",
+      "phone": "0-000",
+      "responsible": "Müdür",
+      "expected_processing_time": "1 iş günü",
+      "location": "Kat 4, Oda 401"
+    },
+    "Bilişim Koordinatörlüğü": {
+      "email": "bilisim@example.edu.tr",
+      "phone": "0-000",
+      "responsible": "Bilişim Uzmanı",
+      "expected_processing_time": "3 iş günü",
+      "location": "Kat 1, Oda 105"
+    }
+  }
+}
